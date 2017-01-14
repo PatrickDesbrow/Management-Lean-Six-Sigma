@@ -1,8 +1,7 @@
 <a href="http://www.drdesbrow.com" target="_blank"><img src="https://github.com/PatrickDesbrow/Technology-Hundred-Day-Plan/blob/master/Logo.png" alt="Logo"></a> 
 <hr>
 
-Here some project management materials for your Lean Six Sigma projects 
-
+Here some project management materials for your Lean Six Sigma projects. Lean Six Sigma is a methodology designed to improved team collatoration and improve system performance by systematically removing waste in all of it's forms from the processes in the department and organization. 
 <hr>
 
 J. Patrick Desbrow Website: http://drdesbrow.com
