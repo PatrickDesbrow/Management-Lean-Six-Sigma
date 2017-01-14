@@ -12,3 +12,5 @@ J. Patrick Desbrow Website: http://drdesbrow.com
 Orginal Version Created: 5/10/2008
 
 Last Updated: 4/01/2012
+
+Note: Here is a Lean Six Sigma Dashboard for Jira: https://github.com/Agilytics/agilytics
